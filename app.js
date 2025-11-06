@@ -6,4 +6,4 @@ const fortune = message.getFourtune()
 
 //display fortune
 console.log("Your fortune is: ")
-console.log(fortune)
+console.log(fortune);
